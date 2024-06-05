@@ -12,7 +12,7 @@ body {
 }
 .container {
   margin-bottom: 50px;
-  height: 50%;
+  height:fit-content;
   width: auto;
   box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
   border-radius: 10px;
